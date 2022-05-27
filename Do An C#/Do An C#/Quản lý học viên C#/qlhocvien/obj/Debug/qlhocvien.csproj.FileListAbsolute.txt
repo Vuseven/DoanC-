@@ -1,0 +1,32 @@
+D:\Bui Thanh Nga\Nam Cuoi\WinForm\qlhocvien\qlhocvien\obj\Debug\ResolveAssemblyReference.cache
+D:\Bui Thanh Nga\Nam Cuoi\WinForm\qlhocvien\qlhocvien\obj\Debug\qlhocvien.qlhocvien.resources
+D:\Bui Thanh Nga\Nam Cuoi\WinForm\qlhocvien\qlhocvien\obj\Debug\qlhocvien.Properties.Resources.resources
+D:\Bui Thanh Nga\Nam Cuoi\WinForm\qlhocvien\qlhocvien\obj\Debug\qlhocvien.qlhocvien.vi-VN.resources
+D:\Bui Thanh Nga\Nam Cuoi\WinForm\qlhocvien\qlhocvien\obj\Debug\qlhocvien.csproj.GenerateResource.Cache
+D:\Bui Thanh Nga\Nam Cuoi\WinForm\qlhocvien\qlhocvien\bin\Debug\qlhocvien.exe
+D:\Bui Thanh Nga\Nam Cuoi\WinForm\qlhocvien\qlhocvien\bin\Debug\qlhocvien.pdb
+D:\Bui Thanh Nga\Nam Cuoi\WinForm\qlhocvien\qlhocvien\bin\Debug\vi-VN\qlhocvien.resources.dll
+D:\Bui Thanh Nga\Nam Cuoi\WinForm\qlhocvien\qlhocvien\obj\Debug\vi-VN\qlhocvien.resources.dll
+D:\Bui Thanh Nga\Nam Cuoi\WinForm\qlhocvien\qlhocvien\obj\Debug\qlhocvien.exe
+D:\Bui Thanh Nga\Nam Cuoi\WinForm\qlhocvien\qlhocvien\obj\Debug\qlhocvien.pdb
+D:\Bui Thanh Nga\Nam Cuoi\WinForm\qlhocvien\qlhocvien\obj\Debug\qlhocvien.Login.resources
+D:\Bui Thanh Nga\Nam Cuoi\WinForm\qlhocvien\qlhocvien\obj\Debug\qlhocvien.GiangVien.resources
+D:\Bui Thanh Nga\Nam Cuoi\WinForm\qlhocvien\qlhocvien\obj\Debug\qlhocvien.Khoa.resources
+D:\Bui Thanh Nga\Nam Cuoi\WinForm\qlhocvien\qlhocvien\obj\Debug\qlhocvien.MonHoc.resources
+D:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý học viên C#\qlhocvien\bin\Debug\qlhocvien.exe
+D:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý học viên C#\qlhocvien\bin\Debug\qlhocvien.pdb
+D:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý học viên C#\qlhocvien\bin\Debug\vi-VN\qlhocvien.resources.dll
+D:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý học viên C#\qlhocvien\obj\Debug\qlhocvien.csproj.AssemblyReference.cache
+D:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý học viên C#\qlhocvien\obj\Debug\qlhocvien.GiangVien.resources
+D:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý học viên C#\qlhocvien\obj\Debug\qlhocvien.Khoa.resources
+D:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý học viên C#\qlhocvien\obj\Debug\qlhocvien.Login.resources
+D:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý học viên C#\qlhocvien\obj\Debug\qlhocvien.MonHoc.resources
+D:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý học viên C#\qlhocvien\obj\Debug\qlhocvien.qlhocvien.resources
+D:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý học viên C#\qlhocvien\obj\Debug\qlhocvien.Properties.Resources.resources
+D:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý học viên C#\qlhocvien\obj\Debug\qlhocvien.qlhocvien.vi-VN.resources
+D:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý học viên C#\qlhocvien\obj\Debug\qlhocvien.csproj.GenerateResource.cache
+D:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý học viên C#\qlhocvien\obj\Debug\qlhocvien.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý học viên C#\qlhocvien\obj\Debug\vi-VN\qlhocvien.resources.dll
+D:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý học viên C#\qlhocvien\obj\Debug\qlhocvien.csproj.CopyComplete
+D:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý học viên C#\qlhocvien\obj\Debug\qlhocvien.exe
+D:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý học viên C#\qlhocvien\obj\Debug\qlhocvien.pdb

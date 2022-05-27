@@ -1,0 +1,2 @@
+D:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý nhân sự tiền lương C#\TT_GDTX_ANGIANG\TT_GDTX_ANGIANG\obj\Debug\TT_GDTX_ANGIANG.csproj.AssemblyReference.cache
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý nhân sự tiền lương C#\TT_GDTX_ANGIANG\TT_GDTX_ANGIANG\obj\Debug\TT_GDTX_ANGIANG.csproj.AssemblyReference.cache

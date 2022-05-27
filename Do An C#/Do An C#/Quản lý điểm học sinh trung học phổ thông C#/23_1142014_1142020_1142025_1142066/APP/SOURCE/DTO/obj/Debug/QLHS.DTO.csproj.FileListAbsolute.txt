@@ -1,0 +1,14 @@
+C:\Users\nguyen\Desktop\QLHS_THPT\bin\QLHS.DTO.dll
+C:\Users\nguyen\Desktop\QLHS_THPT\bin\QLHS.DTO.pdb
+C:\Users\nguyen\Desktop\QLHS_THPT\DTO\obj\Debug\QLHS.DTO.dll
+C:\Users\nguyen\Desktop\QLHS_THPT\DTO\obj\Debug\QLHS.DTO.pdb
+D:\HoanChinh\NM CNPM\23_1142014_1142020_1142025_1142066\APP\SOURCE\bin\QLHS.DTO.dll
+D:\HoanChinh\NM CNPM\23_1142014_1142020_1142025_1142066\APP\SOURCE\bin\QLHS.DTO.pdb
+D:\HoanChinh\NM CNPM\23_1142014_1142020_1142025_1142066\APP\SOURCE\DTO\obj\Debug\QLHS.DTO.dll
+D:\HoanChinh\NM CNPM\23_1142014_1142020_1142025_1142066\APP\SOURCE\DTO\obj\Debug\QLHS.DTO.pdb
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm học sinh trung học phổ thông C#\23_1142014_1142020_1142025_1142066\APP\SOURCE\bin\QLHS.DTO.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm học sinh trung học phổ thông C#\23_1142014_1142020_1142025_1142066\APP\SOURCE\bin\QLHS.DTO.pdb
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm học sinh trung học phổ thông C#\23_1142014_1142020_1142025_1142066\APP\SOURCE\DTO\obj\Debug\QLHS.DTO.csproj.AssemblyReference.cache
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm học sinh trung học phổ thông C#\23_1142014_1142020_1142025_1142066\APP\SOURCE\DTO\obj\Debug\QLHS.DTO.csproj.CoreCompileInputs.cache
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm học sinh trung học phổ thông C#\23_1142014_1142020_1142025_1142066\APP\SOURCE\DTO\obj\Debug\QLHS.DTO.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm học sinh trung học phổ thông C#\23_1142014_1142020_1142025_1142066\APP\SOURCE\DTO\obj\Debug\QLHS.DTO.pdb

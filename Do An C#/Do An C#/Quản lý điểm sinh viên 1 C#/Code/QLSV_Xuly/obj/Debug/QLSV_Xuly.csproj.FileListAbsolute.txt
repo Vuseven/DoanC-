@@ -1,0 +1,16 @@
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Xuly\obj\Debug\ResolveAssemblyReference.cache
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Xuly\bin\Debug\QLSV_Xuly.dll
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Xuly\bin\Debug\QLSV_Xuly.pdb
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Xuly\bin\Debug\QLSV_Database.exe
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Xuly\bin\Debug\QLSV_Database.pdb
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Xuly\obj\Debug\QLSV_Xuly.dll
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Xuly\obj\Debug\QLSV_Xuly.pdb
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QLSV_Xuly\bin\Debug\QLSV_Xuly.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QLSV_Xuly\bin\Debug\QLSV_Xuly.pdb
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QLSV_Xuly\bin\Debug\QLSV_Database.exe
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QLSV_Xuly\bin\Debug\QLSV_Database.pdb
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QLSV_Xuly\obj\Debug\QLSV_Xuly.csproj.AssemblyReference.cache
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QLSV_Xuly\obj\Debug\QLSV_Xuly.csproj.CoreCompileInputs.cache
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QLSV_Xuly\obj\Debug\QLSV_Xuly.csproj.CopyComplete
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QLSV_Xuly\obj\Debug\QLSV_Xuly.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QLSV_Xuly\obj\Debug\QLSV_Xuly.pdb

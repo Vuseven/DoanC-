@@ -1,0 +1,211 @@
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.exe
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.pdb
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.QuanLiThuVien.resources
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Properties.Resources.resources
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.exe
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.pdb
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_DanhMucSach.resources
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_ThongKe.resources
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_DocGia.resources
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.exe
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.pdb
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.exe
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.pdb
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_DanhMucSach.resources
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_MuonSach.resources
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_ThongKe.resources
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_TraCuuTheoDauSach_Theloai_TuaSach.resources
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_TraCuuTheoNXB_TacGia.resources
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_TraSach.resources
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_DocGia.resources
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.DangNhapHT.resources
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.QuanLiThuVien.resources
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Properties.Resources.resources
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Usc_TraCuuDocGia.resources
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\lập trình window 2\DeTai\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.exe
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.pdb
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_DanhMucSach.resources
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_MuonSach.resources
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_ThongKe.resources
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_TraCuuTheoDauSach_Theloai_TuaSach.resources
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_TraCuuTheoNXB_TacGia.resources
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_TraSach.resources
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_DocGia.resources
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.DangNhapHT.resources
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.QuanLiThuVien.resources
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Properties.Resources.resources
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Usc_TraCuuDocGia.resources
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.exe
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.pdb
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmThongTinThuVien.resources
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\BLL.dll
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\BLL.pdb
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\DAL.dll
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\DAL.pdb
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.exe
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.pdb
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.exe
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.pdb
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\BLL.dll
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\DAL.dll
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\BLL.pdb
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\DAL.pdb
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_DanhMucSach.resources
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_ThongKe.resources
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_TraCuuTheoNXB_TacGia.resources
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_DocGia.resources
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.QuanLiThuVien.resources
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Properties.Resources.resources
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmThongTinThuVien.resources
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\BLL.dll
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\DAL.dll
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\BLL.pdb
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\DAL.pdb
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmThongTinThuVien.resources
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_TraCuuTheoNXB_TacGia.resources
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.exe.config
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_Muon_TraSach.resources
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\dbQUANLITHUVIEN.accdb
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInDocGia.resources
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInDanhMucSach.resources
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInTheLoai.resources
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInTacGia.resources
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInNhaXuatBan.resources
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.exe.config
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.exe
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.pdb
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\dbQUANLITHUVIEN.accdb
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.exe
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.pdb
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\BLL.dll
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\DAL.dll
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\BLL.pdb
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\DAL.pdb
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_DanhMucSach.resources
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_Muon_TraSach.resources
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_ThongKe.resources
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_TraCuuTheoDauSach_Theloai_TuaSach.resources
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_TraCuuTheoNXB_TacGia.resources
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_DocGia.resources
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInChiTietPhieuMuon.resources
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInDocGia.resources
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInDanhMucSach.resources
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInNhaXuatBan.resources
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInTacGia.resources
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInTheLoai.resources
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.QuanLiThuVien.resources
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Properties.Resources.resources
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmThongTinThuVien.resources
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\lập trình window 2\De Tai nộp\Cập nhật\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInChiTietPhieuMuon.resources
+C:\Users\Diem Trinh\Desktop\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_TraCuuTheoTheloai_TuaSach.resources
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.exe.config
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\dbQUANLITHUVIEN.accdb
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_Muon_TraSach.resources
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_TraCuuTheoTheloai_TuaSach.resources
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInChiTietPhieuMuon.resources
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInDocGia.resources
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInDanhMucSach.resources
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInNhaXuatBan.resources
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInTacGia.resources
+C:\Users\Diem Trinh\Desktop\New folder\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInTheLoai.resources
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.exe.config
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_Muon_TraSach.resources
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_TraCuuTheoTheloai_TuaSach.resources
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInChiTietPhieuMuon.resources
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInDocGia.resources
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInDanhMucSach.resources
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInNhaXuatBan.resources
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInTacGia.resources
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInTheLoai.resources
+E:\lập trình window 2\De Tai nộp\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\dbQUANLITHUVIEN.accdb
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.exe.config
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.exe
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.pdb
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\dbQUANLITHUVIEN.accdb
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\BLL.dll
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\DAL.dll
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\BLL.pdb
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\DAL.pdb
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_DanhMucSach.resources
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_Muon_TraSach.resources
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_ThongKe.resources
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_TraCuuTheoTheloai_TuaSach.resources
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_TraCuuTheoNXB_TacGia.resources
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_DocGia.resources
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInChiTietPhieuMuon.resources
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInDocGia.resources
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInDanhMucSach.resources
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInNhaXuatBan.resources
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInTacGia.resources
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInTheLoai.resources
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.QuanLiThuVien.resources
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Properties.Resources.resources
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmThongTinThuVien.resources
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.exe
+C:\Users\Diem Trinh\Desktop\NCTH4A_DeTai_DiemTrinh_ThienBao\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.pdb
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.csproj.AssemblyReference.cache
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_DanhMucSach.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_Muon_TraSach.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_ThongKe.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_TraCuuTheoTheloai_TuaSach.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_TraCuuTheoNXB_TacGia.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Control.Usc_DocGia.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInChiTietPhieuMuon.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInDocGia.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInDanhMucSach.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInNhaXuatBan.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInTacGia.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmInTheLoai.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.QuanLiThuVien.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.Properties.Resources.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.frmThongTinThuVien.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.csproj.GenerateResource.cache
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.csproj.CoreCompileInputs.cache
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.exe
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.pdb
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\dbQUANLITHUVIEN.accdb
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.exe.config
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.exe
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.pdb
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\BLL.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\CrystalDecisions.Shared.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\DAL.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\ShockwaveFlashObjects.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\stdole.dll
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\BLL.pdb
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\bin\Debug\DAL.pdb
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý bán sách C#\slnQuanLiThuVien\QuanLiThuVien\obj\x86\Debug\QuanLiThuVien.csproj.CopyComplete

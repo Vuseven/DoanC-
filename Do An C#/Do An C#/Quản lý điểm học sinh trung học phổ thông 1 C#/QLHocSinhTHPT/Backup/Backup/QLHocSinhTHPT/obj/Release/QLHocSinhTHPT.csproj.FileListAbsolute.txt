@@ -1,0 +1,1 @@
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm học sinh trung học phổ thông 1 C#\QLHocSinhTHPT\Backup\Backup\QLHocSinhTHPT\obj\Release\QLHocSinhTHPT.csproj.AssemblyReference.cache

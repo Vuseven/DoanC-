@@ -1,0 +1,17 @@
+C:\Users\Quang\Desktop\SIINHVIEN\SIINHVIEN\bin\Debug\SIINHVIEN.exe
+C:\Users\Quang\Desktop\SIINHVIEN\SIINHVIEN\bin\Debug\SIINHVIEN.pdb
+C:\Users\Quang\Desktop\SIINHVIEN\SIINHVIEN\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Quang\Desktop\SIINHVIEN\SIINHVIEN\obj\Debug\SIINHVIEN.Form1.resources
+C:\Users\Quang\Desktop\SIINHVIEN\SIINHVIEN\obj\Debug\SIINHVIEN.Properties.Resources.resources
+C:\Users\Quang\Desktop\SIINHVIEN\SIINHVIEN\obj\Debug\SIINHVIEN.csproj.GenerateResource.Cache
+C:\Users\Quang\Desktop\SIINHVIEN\SIINHVIEN\obj\Debug\SIINHVIEN.exe
+C:\Users\Quang\Desktop\SIINHVIEN\SIINHVIEN\obj\Debug\SIINHVIEN.pdb
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý sinh viên 2 C#\SIINHVIEN\bin\Debug\SIINHVIEN.exe
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý sinh viên 2 C#\SIINHVIEN\bin\Debug\SIINHVIEN.pdb
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý sinh viên 2 C#\SIINHVIEN\obj\Debug\SIINHVIEN.csproj.AssemblyReference.cache
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý sinh viên 2 C#\SIINHVIEN\obj\Debug\SIINHVIEN.Form1.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý sinh viên 2 C#\SIINHVIEN\obj\Debug\SIINHVIEN.Properties.Resources.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý sinh viên 2 C#\SIINHVIEN\obj\Debug\SIINHVIEN.csproj.GenerateResource.cache
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý sinh viên 2 C#\SIINHVIEN\obj\Debug\SIINHVIEN.csproj.CoreCompileInputs.cache
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý sinh viên 2 C#\SIINHVIEN\obj\Debug\SIINHVIEN.exe
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý sinh viên 2 C#\SIINHVIEN\obj\Debug\SIINHVIEN.pdb

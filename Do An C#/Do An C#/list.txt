@@ -1,0 +1,147 @@
+﻿1. Chat LAN sử dụng socket C#.rar
+2. Chat trong mạng LAN C#.rar
+3. Chuyển đổi các hệ cơ số C#.rar
+4. Game cờ cá ngựa C#.rar
+5. Game cờ tướng Chess C#.rar
+6. Game cờ vua C#.rar
+7. Game line 2008 C#.rar
+8. game luyện trí nhớ Moving Memory C#.rar
+9. game rắn săn mồi C#.rar
+10. Game Sondoku C#.rar
+11. Game xếp hình Tetris C#.rar
+12. get name.bat
+13. Giấu tin trong ảnh C#.rar
+14. Lịch ngày tháng C#.rar
+15. Máy tính nâng cao Casio C#.rar
+16. Nhận dạng dấu vân tay C#.rar
+17. Phần mềm hỗ trợ truy xuất file C#.rar
+18. Phần mềm vẽ đồ thị C#.rar
+19. Quản lý  phần mềm bán vé xe C#.rar
+20. Quản lý bài hát 2 C#.rar
+21. Quản lý bài hát C#.rar
+22. Quản lý bán hàng 2 C#.rar
+23. Quản lý bán hàng C#.rar
+24. Quản lý bán hàng siêu thị C#.rar
+25. Quản lý bán hàng điện tử C#.rar
+26. Quản lý bán sách C#.rar
+27. Quản lý bưu điện C#.rar
+28. Quản lý cafe C#.rar
+29. Quản lý chat trong mang lan C#.rar
+30. Quản lý chương trình hổ trợ tìm việc làm C#.rar
+31. Quản lý chương trình luyện thi trắc nghiệm C#.rar
+32. Quản lý chương trình nghe nhạc C#.rar
+33. Quản lý chương trình nghe nhạc online C#.rar
+34. Quản lý chương trình theo dõi máy tính C#.rar
+35. Quản lý chương trình thi trắc nghiệm tin học đại cương C#.rar
+36. Quản lý chương trình thi trắc nghiệm tiếng anh C#.rar
+37. Quản lý chương trình xử lý ảnh C#.rar
+38. Quản lý các tuyến du lịch C#.rar
+39. Quản lý công việc C#.rar
+40. Quản lý của hàng xe máy C#.rar
+41. Quản lý cửa hàng 1 C#.rar
+42. Quản lý cửa hàng bán xe máy C#.rar
+43. Quản lý cửa hàng bán đĩa C#.rar
+44. Quản lý cửa hàng C#.rar
+45. Quản lý cửa hàng mua bán thuốc C#.rar
+46. Quản lý cửa hàng TV C#.rar
+47. Quản lý danh bạ điện thoại C#.rar
+48. Quản lý dữ liệu phổ cập trung học cơ sở C#.rar
+49. Quản lý hẹn giờ tắt máy tính C#.rar
+50. Quản lý học lại C#.rar
+51. Quản lý học sinh trung học phổ thông 1 C#.rar
+52. Quản lý học sinh trường trung học phổ thông C#.rar
+53. Quản lý học viên C#.rar
+54. Quản lý hồ sơ công chức C#.rar
+55. Quản lý hồ sơ nhân viên C#.rar
+56. Quản lý kho hàng C#.rar
+57. Quản lý kho máy tính C#.rar
+58. Quản lý khách hàng mua bảo hiểm C#.rar
+59. Quản lý khách sạn 1 C#.rar
+60. Quản lý khách sạn 2 C#.rar
+61. Quản lý khách sạn 3 C#.rar
+62. Quản lý khách sạn 4 C#.rar
+63. Quản lý khách sạn 5 C#.rar
+64. Quản lý khách sạn 6 C#.rar
+65. Quản lý khách sạn C#.rar
+66. Quản lý kí túc xá  1 C#.rar
+67. Quản lý kí túc xá C#.rar
+68. Quản lý lịch thực hành C#.rar
+69. Quản lý mua bán C#.rar
+70. Quản lý món ăn ngon C#.rar
+71. Quản lý ngân hàng C#.rar
+72. Quản lý nhà sách C#.rar
+73. Quản lý nhà trọ C#.rar
+74. Quản lý nhân sự 1 C#.rar
+75. Quản lý nhân sự 4 C#.rar
+76. Quản lý nhân sự C#.rar
+77. Quản lý nhân sự tiền lương C#.rar
+78. Quản lý nhân viên sữ dụng access C#.rar
+79. Quản lý phòng mạch C#.rar
+80. Quản lý phần mềm C#.rar
+81. Quản lý quán cafe C#.rar
+82. Quản lý quán karaoke C#.rar
+83. Quản lý quầy thuốc C#.rar
+84. Quản lý sinh viên 2 C#.rar
+85. Quản lý sinh viên C#.rar
+86. Quản lý sinh viên ở trọ C#.rar
+87. Quản lý sắp xếp thời khóa biểu C#.rar
+88. Quản lý thi trắc nghiệm bằng lái xe máy C#.rar
+89. Quản lý thi trắc nghiệm tin học đại cương C#.rar
+90. Quản lý thi trắc trắc nghiệm anh văn C#.rar
+91. Quản lý thu chi C#.rar
+92. Quản lý thu chi kế toán 1 C#.rar
+93. Quản lý thu chi kế toán C#.rar
+94. Quản lý thu tiền nước C#.rar
+95. Quản lý thư viện 1 C#.rar
+96. Quản lý thư viện 2 C#.rar
+97. Quản lý thư viện 4 C#.rar
+98. Quản lý thư viện 5 C#.rar
+99. Quản lý thư viện 6 C#.rar
+100. Quản lý thư viện C#.rar
+101. Quản lý thư viện LINQ C#.rar
+102. Quản lý tiền gửi tiết kiệm C#.rar
+103. Quản lý tiền lương C#.rar
+104. Quản lý tra cứu kiến thức gia đình C#.rar
+105. Quản lý tra cứu phần mềm máy tính C#.rar
+106. Quản lý trung tâm tin học C#.rar
+107. Quản lý trường học 1 C#.rar
+108. Quản lý trường học C#.rar
+109. Quản lý tuyển dụng C#.rar
+110. Quản lý tài sản công cụ ngân hàng C#.rar
+111. Quản lý tính tiền nước C#.rar
+112. Quản lý tổ chức sự kiện C#.rar
+113. Quản lý vay vốn chính sách xã hội C#.rar
+114. Quản lý website bán hàng điện thoại C#.rar
+115. Quản lý xe và lái xe C#.rar
+116. Quản lý xử lý anh Filters C#.rar
+117. Quản lý xử lý dữ liệu phổ cập tiểu học C#.rar
+118. Quản lý xử lý thuật toán mã hóa C#.rar
+119. Quản lý điểm học sinh PTTH (C#).rar
+120. Quản lý điểm học sinh trung học phổ thông 1 C#.rar
+121. Quản lý điểm học sinh trung học phổ thông 2 C#.rar
+122. Quản lý điểm học sinh trung học phổ thông C#.rar
+123. Quản lý điểm khoa công nghệ thông tin C#.rar
+124. Quản lý điểm sinh viên 1 C#.rar
+125. Quản lý điểm sinh viên 2 C#.rar
+126. Quản lý điểm sinh viên C#.rar
+127. Quản lý điểm trường trung học phổ thông C#.rar
+128. Quản lý đoàn viên thanh niên C#.rar
+129. Quản lý đào tạo C#.rar
+130. Quản lý đào tạo và sắp xếp thời khóa biểu C#.rar
+131. Quản lý đại lý C#.rar
+132. Rắn săn mồi C#.rar
+133. Thay đổi màn hình máy tính C#.rar
+134. thuật toán mã đi tuần bằng giao diện C#.rar
+135. Thuật toán sắp xếp thời khóa biểu C#.rar
+136. Truyền file qua mạng LAN FileTransfer C#.rar
+137. Tìm hình pokemon C#.rar
+138. vẽ đồ thị C#.rar
+139. Xây dựng ứng dụng kiểm thử phần mềm tự động C#.rar
+140. đàn nhạc piano C#.rar
+141. Đồ án quản lý bán sách C#.rar
+142. Đồng hồ kim C#.rar
+143. Đồng hồ đặtl ịch báo thức C#.rar
+144. Ứng dụng chơi caro trên mạng LAN C#.rar
+145. Ứng dụng Silverlight viết game cờ caro C#.rar
+--------------------------------
+www.linkerpt.com

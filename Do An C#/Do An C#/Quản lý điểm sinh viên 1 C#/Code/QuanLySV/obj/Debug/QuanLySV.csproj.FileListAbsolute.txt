@@ -1,0 +1,44 @@
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\obj\Debug\ResolveAssemblyReference.cache
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csproj.GenerateResource.Cache
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\bin\Debug\QuanLySV.exe
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\bin\Debug\QuanLySV.pdb
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\obj\Debug\QuanLySV.exe
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\obj\Debug\QuanLySV.pdb
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\bin\Debug\QLSV_Database.exe
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\bin\Debug\QLSV_Database.pdb
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\obj\Debug\QLSV_GiaoDien.frmMain.resources
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\obj\Debug\QLSV_GiaoDien.Login.resources
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\obj\Debug\QLSV_GiaoDien.Properties.Resources.resources
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\obj\Debug\QLSV_GiaoDien.uc_DK_MonHoc.resources
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\obj\Debug\QLSV_GiaoDien.uc_User.resources
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\bin\Debug\QLSV_Xuly.dll
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\bin\Debug\QLSV_Xuly.pdb
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\obj\Debug\QLSV_GiaoDien.UserControls.uc_SinhVien_Lop_MonHoc.resources
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\obj\Debug\QLSV_GiaoDien.UserControls.uc_GiaoVien_KhoaHoc_Khoa_He.resources
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\obj\Debug\QLSV_GiaoDien.UserControls.uc_NhapDiem.resources
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\obj\Debug\QLSV_GiaoDien.frmQuanLySV.resources
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\obj\Debug\QLSV_GiaoDien.frmQuanLiMonHoc.resources
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\obj\Debug\QLSV_GiaoDien.Reports.frmReportSinhVien.resources
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\obj\Debug\QLSV_GiaoDien.Reports.frmBaocaoMH.resources
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\obj\Debug\QLSV_GiaoDien.Reports.frmBaocaoDiem.resources
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\bin\Debug\QuanLySV.exe.config
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QuanLySV\obj\Debug\QLSV_GiaoDien.Aboutme.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QuanLySV\obj\Debug\QuanLySV.csproj.AssemblyReference.cache
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QuanLySV\obj\Debug\QLSV_GiaoDien.Aboutme.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QuanLySV\obj\Debug\QLSV_GiaoDien.frmMain.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QuanLySV\obj\Debug\QLSV_GiaoDien.frmQuanLiMonHoc.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QuanLySV\obj\Debug\QLSV_GiaoDien.frmQuanLySV.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QuanLySV\obj\Debug\QLSV_GiaoDien.Login.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QuanLySV\obj\Debug\QLSV_GiaoDien.Properties.Resources.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QuanLySV\obj\Debug\QLSV_GiaoDien.Reports.frmBaocaoDiem.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QuanLySV\obj\Debug\QLSV_GiaoDien.Reports.frmBaocaoMH.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QuanLySV\obj\Debug\QLSV_GiaoDien.Reports.frmReportSinhVien.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QuanLySV\obj\Debug\QLSV_GiaoDien.uc_DK_MonHoc.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QuanLySV\obj\Debug\QLSV_GiaoDien.UserControls.uc_GiaoVien_KhoaHoc_Khoa_He.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QuanLySV\obj\Debug\QLSV_GiaoDien.UserControls.uc_NhapDiem.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QuanLySV\obj\Debug\QLSV_GiaoDien.UserControls.uc_SinhVien_Lop_MonHoc.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QuanLySV\obj\Debug\QLSV_GiaoDien.uc_User.resources
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QuanLySV\obj\Debug\QuanLySV.csproj.GenerateResource.cache
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QuanLySV\obj\Debug\QuanLySV.csproj.CoreCompileInputs.cache
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QuanLySV\obj\Debug\QuanLySV.exe
+E:\Tài liệu\Tài liệu C#\150 Do an C#\150 Do An C#\Do An C#\Quản lý điểm sinh viên 1 C#\Code\QuanLySV\obj\Debug\QuanLySV.pdb
